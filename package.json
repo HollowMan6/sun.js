@@ -1,0 +1,24 @@
+{
+  "name": "@hollowman6/sun",
+  "version": "1.0.1",
+  "description": "Calculate sunrise and sunset times in Javascript.(JS计算日出日落时间)",
+  "main": "sun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/HollowMan6/sun.js.git"
+  },
+  "keywords": [
+    "Sunrise",
+    "Sunset"
+  ],
+  "author": "Hollow Man",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/HollowMan6/sun.js/issues"
+  },
+  "homepage": "https://github.com/HollowMan6/sun.js#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}

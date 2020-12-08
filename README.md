@@ -1,6 +1,21 @@
 sun.js
 ======
 
+[![last-commit](https://img.shields.io/github/last-commit/HollowMan6/sun.js)](../../graphs/commit-activity)
+![Node.js Package](https://github.com/HollowMan6/sun.js/workflows/Node.js%20Package/badge.svg)
+
+[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
+[![watchers](https://img.shields.io/github/watchers/HollowMan6/sun.js?style=social)](../../watchers)
+[![stars](https://img.shields.io/github/stars/HollowMan6/sun.js?style=social)](../../stargazers)
+[![forks](https://img.shields.io/github/forks/HollowMan6/sun.js?style=social)](../../network/members)
+
+[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
+[![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/sun.js.svg)](../../archive/master.zip)
+
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/sun.js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/sun.js/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/HollowMan6/sun.js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/sun.js/context:javascript)
+
 *New:* Modified by Hollow Man so that the specified time is always between sunrise and sunset time.
 
 Copyright © 2020 hollowman6 from Lanzhou University (兰州大学).
