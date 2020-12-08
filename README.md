@@ -1,6 +1,12 @@
 sun.js
 ======
 
+*New:* Modified by Hollow Man so that the specified time is always between sunrise and sunset time.
+
+Copyright © 2020 hollowman6 from Lanzhou University (兰州大学).
+
+---
+
 Calculate sunrise and sunset times in Javascript.
 
 This library extends the Javascript Date object, adding methods to calculate sunrise and sunset times. It also extends the Math object to add several useful support functions. If you don't like core JS types being extended you should probably rewrite this!
